@@ -9,6 +9,7 @@
 #small-gritty {
     height: 100px;
     width: 100px;
+    filter: drop-shadow(1px 1px 1px black)
 }
 
 #gritter {
