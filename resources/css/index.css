@@ -10,3 +10,12 @@
     height: 100px;
     width: 100px;
 }
+
+#gritter {
+    color: #4d00ff;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
